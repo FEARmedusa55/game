@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "impeccable@claude-plugins-official": true,
+    "21st@claude-plugins-official": true
+  }
+}
